@@ -1,0 +1,7 @@
+.banner {
+    background-image: linear-gradient(
+        rgb(85, 173, 255), rgb(193, 225, 255)
+    );
+    color: black;
+    border-radius: 5px;
+}

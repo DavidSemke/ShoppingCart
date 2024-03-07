@@ -1,0 +1,34 @@
+#cartNavBar {
+    display: flex;
+    height: 100%;
+}
+
+#cartNavBar img {
+    height: 50px;
+}
+
+#hamburger {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+#hamburger img {
+    height: 60px;
+}
+
+#navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: rgb(0, 0, 0);
+    padding: 1rem;
+    height: 8vh;
+    width: 100%;
+}
+
+#siteTitle {
+    font-size: 3rem;
+}

@@ -1,0 +1,28 @@
+#bottomHome {
+  display: flex;
+  flex-direction: column;
+  gap: 8rem;
+}
+
+#bottomHome p {
+  font-size: 1.2rem;
+}
+
+#topHome {
+  display: flex;
+  gap: 2rem;
+}
+
+#topHome > div {
+  flex: 1;
+}
+
+#crazyDealsHome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#popularDealsHome {
+  min-height: 100%;
+}
